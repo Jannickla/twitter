@@ -1,5 +1,7 @@
 # Twitter Like App With React!
 
+his App is under development - Some features might not be fully done yet. This app is based on a tutorial, and the purpose of following it is to learn a lot about best practise for coding in react with django as backend. The future plan is to extend it further than the tutorial.
+
 This is an app that's currently under developing.
 
 This app will be based on the stack of:
@@ -42,4 +44,4 @@ You  can follow and/or unfollow other users.
 You can change profile picture, data about yourself and tweet and delete as crazy as you'd like to. You can see who you follow and who follows you.
 
 
-# This App is under development - Some features might not be fully done yet.
+This App is under development - Some features might not be fully done yet. This app is based on a tutorial, and the purpose of following it is to learn a lot about best practise for coding in react with django as backend. The future plan is to extend it further than the tutorial.
