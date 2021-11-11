@@ -1,14 +1,15 @@
 # Twitter Like App With React!
 
-his App is under development - Some features might not be fully done yet. This app is based on a tutorial, and the purpose of following it is to learn a lot about best practise for coding in react with django as backend. The future plan is to extend it further than the tutorial.
+This App is under development - Some features might not be fully done yet. This app is based on a tutorial, and the purpose of following it is to learn a lot about best practise for coding in react with django as backend. The future plan is to extend it further than the tutorial.
 
-This is an app that's currently under developing.
 
 This app will be based on the stack of:
 
 - Python 3.7/Django 2.2.15.
-- Bootstrap 4
+- Bootstrap 4 (I will change it to 5*)
 - React
+
+* Bootstrap 5 allows us to remove jQuery and use react as js driver! As it has been released I see it as a better solution. It will be updated before continuing.
 
 
 # Features to be done
